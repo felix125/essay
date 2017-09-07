@@ -3,6 +3,7 @@
 #+AUTHOR: 張昌衡 (Felix Chang)
 #+EMAIL: funal.zhang@gmail.com
 #+VERSION: 0.3
+#+html_head: <script type="text/javascript" src="_js/google_analystics.js"></script>
 
 * 序言
 
